@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 // Skeleton code : Andrew Way
 // filled in by: Michael Wright
 // Date: Feb 04, 2018
@@ -154,11 +153,7 @@ int main() {
 	cout <<  "tire 4: " << tire4_.weight() << "kg" << endl;
 	
 	
-<<<<<<< HEAD
 	//Init the motor
-=======
-	//Build the motor
->>>>>>> master
 	Motor motor_(200,9.4);
 	  
 	cout << "Motor weight: " << motor_.weight() << "Kg" << endl;
