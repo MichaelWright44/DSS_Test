@@ -152,7 +152,7 @@ int main() {
 	cout <<  "tire 4: " << tire4_.weight() << "kg" << endl;
 	
 	
-	//Build the motor
+	//Init the motor
 	Motor motor_(200,9.4);
 	  
 	cout << "Motor weight: " << motor_.weight() << "Kg" << endl;
